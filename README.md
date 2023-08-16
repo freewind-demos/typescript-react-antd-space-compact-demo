@@ -1,5 +1,7 @@
-TypeScript React AntDesign Demo
+TypeScript React AntDesign Space Compact Demo
 =================================
+
+使用 Space.Compact 可以把一组 form item 组合在一起
 
 ```
 npm install
